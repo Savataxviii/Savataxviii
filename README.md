@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Savataxviii
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning AI
+- 👋 Hi, I’m Savata 
+- 👀 I’m interested in open source programs.
+- 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me : instragam- _prince.ly_
 
