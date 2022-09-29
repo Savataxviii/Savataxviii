@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source programs.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me : instragam- _prince.ly_
+- 📫 How to reach me : mailid : savataxvii@gmail.com
 
 <!---
 Savataxviii/Savataxviii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
