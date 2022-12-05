@@ -1,4 +1,4 @@
-- 👋 Hi, I am Savata 
+- 👋 Hi, I am Savata .
 - 👀 I’m interested in open source program
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate.
